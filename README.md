@@ -1,5 +1,17 @@
-This repository has code for password-generator website that has
-->Strength Indicator
-->Dark Mode
-->Copy Sucess Message
-->Mobile Responsive
+# Password Generator Website
+
+A simple password generator built using:
+
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Custom password length
+- Uppercase, lowercase, numbers, symbols
+- Copy to clipboard
+- Strength indicator
+- Dark mode
+
+## Live Demo
+https://obscurax86.github.io/password-generator/
